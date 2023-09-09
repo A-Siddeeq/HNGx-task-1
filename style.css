@@ -4,3 +4,16 @@
     box-sizing: border-box;
     text-align: center;
 }
+
+body{
+    background-color: #a9a9a9;
+    font-size: 24px;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 1px;
+}
+
+img{
+    border: 1px solid #fff;
+    border-radius: 12px;
+    width: 24rem;
+}
